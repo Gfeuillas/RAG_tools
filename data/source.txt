@@ -1,0 +1,4 @@
+La Retrieval-Augmented Generation (RAG) combine un moteur de recherche et un modèle de génération.
+Elle permet de répondre précisément en s'appuyant sur une base documentaire.
+Ce projet montre comment charger un fichier texte, indexer son contenu et interroger le modèle en français.
+Commencez par ajouter votre propre texte dans ce fichier.
